@@ -1,6 +1,6 @@
 # Rift Haven Room Reservation System
 
-A modern luxury resort and hotel booking management web application built with PHP, MySQL, and Bootstrap 5[cite: 1, 2].
+A modern luxury resort and hotel booking management web application built with PHP, MySQL, and Bootstrap 5.
 
 ## 🌟 Features
 * **Session-Based Welcome Gate:** Secure landing screen featuring a live ticking clock and branded assets.
@@ -10,12 +10,12 @@ A modern luxury resort and hotel booking management web application built with P
 * **Glassmorphism UI:** Modern frosted-glass modals, responsive mobile-friendly layouts, and smooth transition animations.
 
 ## 🛠️ Tech Stack
-* **Backend:** PHP & MySQL[cite: 1, 2]
-* **Frontend:** HTML5, CSS3, JavaScript[cite: 1, 2]
-* **UI Framework:** Bootstrap 5 & Custom Glassmorphism CSS[cite: 1, 2]
-* **Hosting & Deployment:** InfinityFree Cloud Platform[cite: 1, 2]
+* **Backend:** PHP & MySQL
+* **Frontend:** HTML5, CSS3, JavaScript
+* **UI Framework:** Bootstrap 5 & Custom Glassmorphism CSS
+* **Hosting & Deployment:** InfinityFree Cloud Platform
 
 ## 👨‍💻 Developer Information
-* **Developer:** Alemar Y. Bantilan 3ANT[cite: 1]
-* **Program:** Bachelor of Science in Information Technology[cite: 1]
-* **Institution:** Iloilo State University of Fisheries Science and Technology[cite: 1]
+* **Developer:** Alemar Y. Bantilan 3ANT
+* **Program:** Bachelor of Science in Information Technology
+* **Institution:** Iloilo State University of Fisheries Science and Technology
